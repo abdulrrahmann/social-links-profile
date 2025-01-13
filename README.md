@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Screenshot.png)
+![](./assets/images/Screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/social-media-preview-card-i-EdEDMqEL)
+- Live Site URL: [live site URL](https://abdulrrahmann.github.io/social-links-profile/)
 
 ## My process
 
